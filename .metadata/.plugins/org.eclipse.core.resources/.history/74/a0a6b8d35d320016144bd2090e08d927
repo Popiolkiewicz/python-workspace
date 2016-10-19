@@ -1,0 +1,8 @@
+'''
+Created on 14.06.2016
+
+@author: Hubert
+'''
+
+def divide(a: float, b: float):
+    
